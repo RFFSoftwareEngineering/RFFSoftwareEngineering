@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rafael Fodra Furlan, a service provider changing career from mechanic and electricity to Software Engineering
+- 👋 Hi, I’m Rafael Fodra Furlan, service provider as Full-Stack Python Developer, always learning more and more
 - 👀 I’m a Software Engineering Student at Cruzeiro do Sul University, and also Industrial Automation Technician, Technician in Mechanics and i'm looking for jobs
 - 🌱 I'm currently developing my tech career, providing services...just trying to grow
-- 💞️ I'm looking forward to project and develop great and cool stuff, specially with A.I.
+- 💞️ I'm looking forward to project and develop great and cool stuff, specially with A.I, web, and all python have to offer, i want to contribute more to Open Sourcer Projects
 - 📫 you can reach me trough my e-mail: RFFSoftwareEngineering@outlook.com 
 
 ### Connect with me:
