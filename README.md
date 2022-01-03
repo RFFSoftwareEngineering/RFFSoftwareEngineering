@@ -4,6 +4,6 @@
 - 💞️ I'm looking forward to project and develop great and cool stuff, specially with A.I.
 - 📫 you can reach me trough my e-mail: RFFSoftwareEngineering@outlook.com 
 
-<img align="left" alt ="RFFSoftware | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/rafael-furlan-52b126204/" />
+[<img align="left" alt ="RFFSoftware | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][https://www.linkedin.com/in/rafael-furlan-52b126204/]
 
 <br/>
