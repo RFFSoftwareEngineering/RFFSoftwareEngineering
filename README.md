@@ -14,7 +14,7 @@
 
 ### Currently Working With:
 
-[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/python.png"/>][python]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/py.png"/>][python]
 
 <br/>
 
