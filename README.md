@@ -15,7 +15,7 @@
 ### Currently Working With:
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/py.png"/>][python]
-[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/django.png"/>][python]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/django.png"/>][django]
 
 <br/>
 
@@ -23,3 +23,4 @@
 [facebook]: https://www.facebook.com/rafael.furlan.311/
 [instagram]: https://www.instagram.com/rafael_f_furlan/
 [python]: https://www.python.org/
+[django]: https://www.djangoproject.com/
