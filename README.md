@@ -7,7 +7,9 @@
 ### Connect with me:
 
 [<img align="left" alt ="RFFSoftware | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt ="RFFSoftware | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/rafael-furlan-52b126204/
+[facebook]: https://www.facebook.com/rafael.furlan.311/
