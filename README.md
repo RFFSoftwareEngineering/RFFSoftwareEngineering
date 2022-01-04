@@ -10,6 +10,9 @@
 [<img align="left" alt ="RFFSoftware | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt ="RFFSoftware | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
+**Currently working with:**
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/rafael-furlan-52b126204/
