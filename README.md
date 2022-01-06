@@ -68,3 +68,17 @@
 [pytest]: https://pypi.org/project/pytest/
 [scikit]: https://scikit-learn.org/stable/
 [open]: https://opencv.org/
+
+<br/>
+
+### Already worked with:
+
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/C.png"/>][C]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/java.jpg"/>][java]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/ccc.png"/>][ccc]
+
+<br/>
+
+[C]: https://devdocs.io/c/
+[java]: https://docs.oracle.com/en/java/
+[ccc]: https://devdocs.io/cpp/
