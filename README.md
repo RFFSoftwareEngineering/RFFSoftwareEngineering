@@ -42,3 +42,13 @@
 [ajax]: https://www.w3schools.com/jquery/jquery_ajax_intro.asp
 [vs]: https://visualstudio.microsoft.com/pt-br/vs/community/
 [mysql]: https://www.mysql.com/
+
+<br/>
+
+### Learning:
+
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/cloud.png"/>][cloud]
+
+<br/>
+
+[cloud]: https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
