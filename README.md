@@ -88,3 +88,5 @@
 ### Currently focused on building:
 
 -> Know-how Printed Circuit Boards ERP
+-> My Website
+-> some cool own projects
