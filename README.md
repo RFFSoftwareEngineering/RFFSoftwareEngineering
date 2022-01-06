@@ -16,6 +16,7 @@
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/py.png"/>][python]
 [<img align="left" alt="RFFSoftware | Tools" width="42px" src="/Icons/django.png"/>][django]
+[<img align="left" alt="RFFSoftware | Tools" width="42px" src="/Icons/html5.png"/>][html5]
 
 <br/>
 
@@ -24,3 +25,4 @@
 [instagram]: https://www.instagram.com/rafael_f_furlan/
 [python]: https://www.python.org/
 [django]: https://www.djangoproject.com/
+[html5]: https://www.w3.org/Consortium/
