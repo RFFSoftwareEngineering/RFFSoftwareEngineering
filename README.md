@@ -22,8 +22,8 @@
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/js.png"/>][js]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/Qt6.png"/>][Qt]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/sql.png"/>][sql]
-[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/ajaxjquery.jpg"/>][sql]
-
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/ajaxjquery.jpg"/>][ajax]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/vs.png"/>][vs]
 
 <br/>
 
@@ -38,3 +38,5 @@
 [js]: https://www.w3schools.com/js/
 [Qt]: https://www.riverbankcomputing.com/static/Docs/PyQt6/
 [sql]: https://pt.wikipedia.org/wiki/SQL
+[ajax]: https://www.w3schools.com/jquery/jquery_ajax_intro.asp
+[vs]: https://visualstudio.microsoft.com/pt-br/vs/community/
