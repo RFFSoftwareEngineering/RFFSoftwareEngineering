@@ -19,6 +19,7 @@
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/html5.png"/>][html5]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/css3.png"/>][css3]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/bootstrap5.jpeg"/>][bootstrap5]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/js.png"/>][js]
 
 <br/>
 
@@ -30,3 +31,4 @@
 [html5]: https://www.w3.org/Consortium/
 [css3]: https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/
 [bootstrap5]: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+[js]: https://www.w3schools.com/js/
