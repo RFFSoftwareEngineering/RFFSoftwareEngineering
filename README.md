@@ -22,6 +22,7 @@
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/js.png"/>][js]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/Qt6.png"/>][Qt]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/sql.png"/>][sql]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/ajaxjquery.jpg"/>][sql]
 
 
 <br/>
