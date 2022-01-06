@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael Fodra Furlan, service provider as Full-Stack Python Developer, always learning more and more
 - 👀 I’m a Software Engineering Student at Cruzeiro do Sul University, and also Industrial Automation Technician, Technician in Mechanics and i'm looking for jobs
 - 🌱 I'm currently developing my tech career, providing services...just trying to grow
-- 💞️ I'm looking forward to project and develop great and cool stuff, specially with A.I, web, and all python have to offer, i want to contribute more to Open Sourcer Projects
+- 💞️ I'm looking forward to project and develop great and cool stuff, with all technology have to offer, i want to contribute more to Open Sourcer Projects
 - 📫 you can reach me trough my e-mail: RFFSoftwareEngineering@outlook.com 
 
 ### Connect with me:
@@ -18,6 +18,7 @@
 [<img align="left" alt="RFFSoftware | Tools" width="42px" height="28px" src="/Icons/django.png"/>][django]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/html5.png"/>][html5]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/css3.png"/>][css3]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/bootstrap5.jpeg"/>][bootstrap5]
 
 <br/>
 
@@ -28,3 +29,4 @@
 [django]: https://www.djangoproject.com/
 [html5]: https://www.w3.org/Consortium/
 [css3]: https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/
+[bootstrap5]: https://getbootstrap.com/docs/5.0/getting-started/introduction/
