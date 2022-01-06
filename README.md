@@ -82,3 +82,9 @@
 [C]: https://devdocs.io/c/
 [java]: https://docs.oracle.com/en/java/
 [ccc]: https://devdocs.io/cpp/
+
+<br/>
+
+### Currently focused on building:
+
+-> Know-how Printed Circuit Boards ERP
