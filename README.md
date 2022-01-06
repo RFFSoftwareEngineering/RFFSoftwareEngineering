@@ -15,8 +15,8 @@
 ### Currently Working With:
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/py.png"/>][python]
-[<img align="left" alt="RFFSoftware | Tools" width="42px" src="/Icons/django.png"/>][django]
-[<img align="left" alt="RFFSoftware | Tools" width="42px" src="/Icons/html5.png"/>][html5]
+[<img align="left" alt="RFFSoftware | Tools" width="42px" height="42" src="/Icons/django.png"/>][django]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/html5.png"/>][html5]
 
 <br/>
 
