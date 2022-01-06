@@ -48,7 +48,23 @@
 ### Learning:
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/cloud.png"/>][cloud]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/AI.png"/>][ai]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/iot.jpg"/>][iot]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/docker.png"/>][docker]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/postgre.png"/>][postgre]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/nosql.png"/>][nosql]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/Pytest.png"/>][pytest]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/scikit.png"/>][scikit]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/open.png"/>][open]
 
 <br/>
 
 [cloud]: https://pt.wikipedia.org/wiki/Computa%C3%A7%C3%A3o_em_nuvem
+[ai]: https://en.wikipedia.org/wiki/Artificial_intelligence
+[iot]: https://pt.wikipedia.org/wiki/Internet_das_coisas
+[docker]: https://www.docker.com/
+[postgre]: https://www.postgresql.org/
+[nosql]: https://docs.oracle.com/en/database/other-databases/nosql-database/
+[pytest]: https://pypi.org/project/pytest/
+[scikit]: https://scikit-learn.org/stable/
+[open]: https://opencv.org/
