@@ -21,6 +21,8 @@
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/bootstrap5.jpeg"/>][bootstrap5]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/js.png"/>][js]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/Qt6.png"/>][Qt]
+[<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/sql.png"/>][sql]
+
 
 <br/>
 
@@ -34,3 +36,4 @@
 [bootstrap5]: https://getbootstrap.com/docs/5.0/getting-started/introduction/
 [js]: https://www.w3schools.com/js/
 [Qt]: https://www.riverbankcomputing.com/static/Docs/PyQt6/
+[sql]: https://pt.wikipedia.org/wiki/SQL
