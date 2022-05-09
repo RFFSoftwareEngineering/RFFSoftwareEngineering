@@ -85,9 +85,9 @@
 
 <br/>
 
-### Currently focused on building:
+### Currently focused on:
 
--> Know-how Printed Circuit Boards ERP
+-> Work at OutTech Services IT
 
 <br/>
 
