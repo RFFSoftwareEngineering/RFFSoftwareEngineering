@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rafael Fodra Furlan, service provider as Full-Stack Python Developer, always learning more and more
-- 👀 I’m a Software Engineering Student at Cruzeiro do Sul University, and also Industrial Automation Technician, Technician in Mechanics and i'm looking for jobs
-- 🌱 I'm currently developing my tech career, providing services...just trying to grow
-- 💞️ I'm looking forward to project and develop great and cool stuff, with all technology have to offer, i want to contribute more to Open Sourcer Projects
+- 👋 Hi, I'm Rafael Fodra Furlan, a service provider working as a Back-End Python Developer, always eager to learn and improve.
+- 👀 I’m a Software Engineering Student at Cruzeiro do Sul University (almost done), and also Industrial Automation Technician, Technician in Mechanics.Currently, I'm actively seeking international job opportunities.
+- 🌱 I'm currently advancing my career in technology, providing services and continually striving for personal and professional growth.
+- 💞️ I'm eager to collaborate on projects and develop innovative and exciting solutions, leveraging the full potential of technology. My goal is also to make meaningful contributions to open-source projects.
 - 📫 you can reach me trough my e-mail: RFFSoftwareEngineering@outlook.com 
 
 ### Connect with me:
@@ -87,12 +87,12 @@
 
 ### Currently focused on:
 
--> Work at OutTech Services IT
+-> Pursuing opportunities in international employment
 
 <br/>
 
--> My Website
+-> Advancing my specialization in Deep Learning
 
 <br/>
 
--> some cool own projects
+-> Undertaking exciting personal projects
