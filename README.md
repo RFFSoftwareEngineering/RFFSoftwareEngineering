@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Rafael Fodra Furlan, a service provider working as a Back-End Python Developer, always eager to learn and improve.
-- 👀 I’m a Software Engineering Student at Cruzeiro do Sul University (almost done), and also Industrial Automation Technician, Technician in Mechanics.Currently, I'm actively seeking international job opportunities.
+- 👀 I’m a Software Engineering Student at Cruzeiro do Sul University (almost done), and also Industrial Automation Technician, Technician in Mechanics.
 - 🌱 I'm currently advancing my career in technology, providing services and continually striving for personal and professional growth.
 - 💞️ I'm eager to collaborate on projects and develop innovative and exciting solutions, leveraging the full potential of technology. My goal is also to make meaningful contributions to open-source projects.
 - 📫 you can reach me trough my e-mail: RFFSoftwareEngineering@outlook.com 
@@ -12,7 +12,7 @@
 
 <br/>
 
-### Currently Working With:
+### Currently Working With(outdated):
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/py.png"/>][python]
 [<img align="left" alt="RFFSoftware | Tools" width="42px" height="28px" src="/Icons/django.png"/>][django]
@@ -45,7 +45,7 @@
 
 <br/>
 
-### Learning:
+### Learning(outdated):
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/cloud.png"/>][cloud]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/AI.png"/>][ai]
@@ -71,7 +71,7 @@
 
 <br/>
 
-### Already worked with:
+### Already worked with(outdated):
 
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/C.png"/>][C]
 [<img align="left" alt="RFFSoftware | Tools" width="32px" src="/Icons/java.jpg"/>][java]
@@ -87,11 +87,11 @@
 
 ### Currently focused on:
 
--> Pursuing opportunities in international employment
+-> Career Growth
 
 <br/>
 
--> Advancing my specialization in Deep Learning
+-> Get a Master Degree in Machine Learning
 
 <br/>
 
